@@ -1,3 +1,6 @@
 .gradle
 .vscode
 build
+tester.txt
+
+uploads/*
